@@ -1,0 +1,5 @@
+ "php-debug":
+    ServerAddress: "127.0.0.1"
+    ServerPort: 9000
+    currentPanelHeight: "292px"
+    currentPanelMode: "bottom"
